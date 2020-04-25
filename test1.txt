@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is DAE3-C015
+
+ Directory of C:\Users\bhanair\Desktop\My Project
+
+25-04-2020  21:33    <DIR>          .
+25-04-2020  21:33    <DIR>          ..
+25-04-2020  21:33                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  286,409,240,576 bytes free
